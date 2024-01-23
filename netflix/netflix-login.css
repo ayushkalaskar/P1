@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+    color: white;
+}
+.header{
+    height: 95vh;
+    width: 85%;
+    background-image: url("/header.jpg");
+    background-size:cover;
+    background-position:center;
+    padding: 10px 8%;
+    position:relative;
+}
+*{
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+
+}
+#sign{
+    color: rgb(175, 38, 38);
+    /* padding-left: 10px; */
+    /* font-size: .30px; */
+    margin-left: 1200px; 
+}
+
+img{
+    height: 60px;
+    width: 200px;
+}
+.form{
+margin-left: 40px;
+justify-content: center;
+}
+div input{
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: transparent;
+    
+}
+button{
+    background-color: red;
+    color:#ffff;
+    height: 50px;
+    width: 400px;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+ .body {
+    height: 400px;
+    width:500px;
+    margin: 0 auto;
+    margin-top: 5%;
+    border:solid black 2px;
+    padding:5px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+}
+
+
+.body:hover{
+    box-shadow: 5px 5px 5px black;
+}
+.form-control:hover{
+    box-shadow: 5px 5px 5px black;
+}
+.fa-brands{
+    color:white;
+}
+

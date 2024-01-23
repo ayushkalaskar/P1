@@ -1,0 +1,295 @@
+*{
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+body{
+    background-color: black;
+} 
+.body
+{
+    height: 100px;
+    margin-top: 2px;
+    width: 150px;
+    border: solid black 2px;
+    border-radius: 1%;
+    display: inline-block;
+}
+.container
+{
+    margin-top: 100px;
+    padding: 2px;
+    margin-left: 150px;
+    
+}
+.cards
+{
+    
+    margin-left: 1px;
+}
+.container  .box .card1
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 17px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card2
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card3
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card4
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card5
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card6
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card7
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card8
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card9
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card10
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card11
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+.container  .box .card12
+{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    height: 370px;
+    width: 270px;
+    display: flex;
+    border-radius: 5%;
+    border: solid black 2px;
+    margin-left: 20px;
+    padding-left: 5px;
+    float: left;
+}
+
+.card1:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+
+}
+.card2:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card3:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card4:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card5:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card6:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card7:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card8:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card9:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card10:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card11:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card12:hover
+{
+    box-shadow: 5px 5px 5px rgb(58, 57, 57);
+}
+.card-title
+{
+    margin-left: 20px;
+}
+.card-text
+{
+    margin-left: 20px;
+}
+.btn
+{
+    margin-left: 150px;
+
+}
+.card-link
+{
+    margin-left: 25px;
+}
+.card-img-top
+{
+    height: 170px;
+    width: 255px;
+    padding-top: 10px;
+    size-adjust: 200px;
+    padding-right: 50px;
+}
+.netflix
+{
+    height: 100px;
+    width:1600px;
+    margin: 0 auto;
+    margin-top: 1px;
+    padding:5px;
+    padding-bottom: 50px;
+}
+img{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+h1{
+    color: white;
+}
+i{
+    margin-top: 2px;
+}
+.card3 .btn{
+    margin-top: 20px;
+}
+.card5 .btn{
+    margin-top: 20px;
+}
+.card8 .btn{
+    margin-top: 20px;
+}
+.card9 .btn{
+ margin-top: 10px;
+}
+.card10 .btn{
+    margin-top: 10px;
+}
+i{
+    color: rgb(170, 159, 61);
+}

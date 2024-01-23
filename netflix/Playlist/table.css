@@ -1,0 +1,24 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent {
+    width: 100px;
+    height: 100px;
+    /* Aligns the children items in a row direction */
+    display: flex;
+}
+
+.child1{
+    width: 100px;
+    height: 100px;
+    background-color: violet;
+}
+
+.child2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+} */
